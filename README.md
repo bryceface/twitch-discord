@@ -1,2 +1,3 @@
-# twitch-discord
-A basic script to monitor channels given for subscriptions and bits on the twitch platform using asynctwitch plugin.
+A basic script to monitor channels given for subscriptions and bits on the twitch platform using asynctwitch python plugin. The discordpy python plugin allows me to send messages to a specific channel with subscriptions and bits being given to the streamers you provide. You can also run commands in the discord channel specified in the config to get current live streamers of the channels being monitored, the current members of the discord channel, and emotes of the discord server. You can monitor the twitch irc chat via a guest or provide a username and oauth password to the config.
+
+This is a very basic script I did to pass time and get an idea how async works in python, it's extremely messy right now but I will clean it up. 
